@@ -22,7 +22,6 @@ This project includes various neural network models for image segmentation, part
 
 ## Images
 ![Dice Loss Curve](./images/dice_loss_curve.png)
-![Visual Result](./images/visual_result.png)
 ![Visual Result2](./images/visual_result2.png)
 ![Visual Result3](./images/visual_result3.png)
 
